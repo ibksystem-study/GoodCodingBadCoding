@@ -1,44 +1,76 @@
-이 프로젝트는 IBK System의 학습단체에서 아래 도서를 읽고
+
+
+[Before Starting]
+------------------
+
+
+> 이 프로젝트는 IBK System의 학습단체에서 아래 도서를 읽고 
 학습단체 구성원들의 생각들을 정리하여 글을 작성하는 곳입니다. 
 
-저자와 출판사 측에는 어떠한 연락을 드리지 않았습니다.
+> 저자와 출판사 측에는 어떠한 연락을 드리지 않았습니다. 
 작성된 글의 일부가 도서의 내용과 비슷할 수 있으며, 
-이로 인해 저작권 침해가 예상되는 경우 
+이로 인해 저작권 침해가 예상되는 경우에는 
 지체없이 해당 문구나 파일을 수정 또는 삭제하겠습니다.
 
+> This is IBK System's employees' studying project.
+It is good for members' behavior and ability to develop software with the others.
 
-도서 정보
-[좋은 코딩 나쁜 코딩] (박진수 지음, 한빛미디어)
-ISBN 978-89-6848-056-0
-
-
-[학습단체정보]
-회사명 : IBK System 
-사내 학습단체명 : 좋은 코딩 나쁜 코딩
-
-[단체구성원정보] 
-조용호
-조도현
-박준홍
-강석윤
-장성민
-라현균
-서정호
-정세원
-양현탁
-김아름
-한태웅
-서유리
-전해인
-서수영
-정문배
-하진호
-이상16명
+> This study references the book, named "Good Coding Bad Coding". 
+We have not been permitted by book's author and publisher.
+So, We will not copy book's contents. 
+If we copy any content of book, we have to remove or modify it.
+<br>
+<br>
 
 
+[Study Group]
+------------------------------
 
-[모임안내]
-2016년 05월 31일 12:00 KST  첫 모임 예정입니다.
+* Company Name : IBK System 
+* Group Name : Good Coding Bad Coding
+<br>
+<br>
+
+
+[Member List]
+-----------------
+
+* Yongho Cho
+* Dohyeon Cho
+* Joonhong Park
+* Seokyoon Kang
+* Seongmin Jang
+* Hyeongyoon Rha
+* Jeongho Seo
+* Sewon Jeong
+* Hyeontak Yang
+* Arum Kim
+* Taewoong Han
+* Yoori Seo
+* Haein Jeon
+* Sooyeong Seo
+* Moonbae Jeong
+* Jinho Ha
+<br>
+<br>
+
+
+[Book]
+-----------------------
+
+* [Good Coding Bad Coding] (http://book.naver.com/bookdb/book_detail.nhn?bid=7321418)
+* Author : Jinsoo Park
+* Publisher : Hanbit Media
+* ISBN : 978-89-6848-056-0
+<br>
+<br>
+
+
+[Notice]
+----------------
+2016, May 31 12:00 (KST)  First Meeting
+<br>
+<br>
 
 
 
