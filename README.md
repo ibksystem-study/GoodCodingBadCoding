@@ -43,7 +43,7 @@ Jinho Ha
 
 
 ## [Book]
-[Good Coding Bad Coding] (http://book.naver.com/bookdb/book_detail.nhn?bid=7321418")  
+[Good Coding Bad Coding] (http://book.naver.com/bookdb/book_detail.nhn?bid=7321418)
 Author : Jinsoo Park  
 Publisher : Hanbit Media  
 ISBN : 978-89-6848-056-0  
