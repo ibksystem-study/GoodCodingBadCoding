@@ -24,8 +24,8 @@ Group Name : Good Coding Bad Coding
 
 
 ## [Member List]
-Yongho Cho  
-Dohyeon Cho  
+Yongho Jo  
+Dohyeon Jo  
 Joonhong Park  
 Seokyoon Kang  
 Seongmin Jang  
@@ -49,15 +49,88 @@ Publisher : Hanbit Media
 ISBN : 978-89-6848-056-0  
 
 
-## [Notice]
-2016, May 31 12:00 (KST)  First Meeting  
-
-
 ## [Use Markdown]
 We need to use editing markdown formatted document.  
 If you already know about it, you are lucky guys.  
 But you don't know, please learn it.  
 
 Link to _wikipedia_ : (https://en.wikipedia.org/wiki/Markdown)   
+
+
+## [Plan]
+
+We meet every Tuesday noon from May 31 to September 27.
+
+01. Chapter 01  
+  * Date : 2016, May 31 12:00 (KST)  
+  * Tutor : Hyeontak Yang  
+
+02. Chapter 02  
+  * 2016, June 7 12:00 (KST)  
+  * Tutor : Yongho Jo  
+
+03. Chapter 03  
+  * 2016, June 14 12:00 (KST)  
+  * Tutor : Hyeongyoon Rha  
+
+04. Chapter 04  
+  * 2016, June 21 12:00 (KST)  
+  * Tutor : Moonbae Jeong  
+
+05. Chapter 05  
+  * 2016, June 28 12:00 (KST)  
+  * Tutor : Haein Jeon  
+
+06. Chapter 06  
+  * 2016, July 5 12:00 (KST)  
+  * Tutor : Taewoong Han  
+
+07. Chapter 07  
+  * 2016, July 12 12:00 (KST)  
+  * Tutor : Sooyeong Seo  
+
+08. Chapter 08  
+  * 2016, July 19 12:00 (KST)  
+  * Tutor : Jeongho Seo  
+
+09. Chapter 09  
+  * 2016, July 26 12:00 (KST)  
+  * Tutor : Jinho Ha  
+
+10. Chapter 10  
+  * 2016, August 2 12:00 (KST)  
+  * Tutor : Seokyoon Kang  
+
+11. Chapter 11  
+  * 2016, August 9 12:00 (KST)  
+  * Tutor : Arum Kim  
+
+12. Chapter 12  
+  * 2016, August 16 12:00 (KST)  
+  * Tutor : Joonhong Park  
+
+13. Chapter 13  
+  * 2016, August 23 12:00 (KST)  
+  * Tutor : Seongmin Jang  
+
+14. Chapter 14  
+  * 2016, August 30 12:00 (KST)  
+  * Tutor : Sewon Jeong  
+
+15. Chapter 15  
+  * 2016, September 6 12:00 (KST)  
+  * Tutor : Yoori Seo  
+
+16. Chapter 16  
+  * 2016, September 13 12:00 (KST)  
+  * Tutor : Dohyeon Jo  
+
+17. Chapter 17  
+  * 2016, September 20 12:00 (KST)  
+  * Tutor :   
+
+18. Chapter 18  
+  * 2016, September 27 12:00 (KST)  
+  * Tutor :   
 
 
