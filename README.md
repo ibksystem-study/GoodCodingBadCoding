@@ -1,12 +1,12 @@
 ## [Before Starting]
 
-ÀÌ ÇÁ·ÎÁ§Æ®´Â IBK SystemÀÇ ÇÐ½À´ÜÃ¼¿¡¼­ ¾Æ·¡ µµ¼­¸¦ ÀÐ°í  
-ÇÐ½À´ÜÃ¼ ±¸¼º¿øµéÀÇ »ý°¢µéÀ» Á¤¸®ÇÏ¿© ±ÛÀ» ÀÛ¼ºÇÏ´Â °÷ÀÔ´Ï´Ù. 
+ì´ í”„ë¡œì íŠ¸ëŠ” IBK Systemì˜ í•™ìŠµë‹¨ì²´ì—ì„œ ì•„ëž˜ ë„ì„œë¥¼ ì½ê³   
+í•™ìŠµë‹¨ì²´ êµ¬ì„±ì›ë“¤ì˜ ìƒê°ë“¤ì„ ì •ë¦¬í•˜ì—¬ ê¸€ì„ ìž‘ì„±í•˜ëŠ” ê³³ìž…ë‹ˆë‹¤. 
 
-ÀúÀÚ¿Í ÃâÆÇ»ç Ãø¿¡´Â ¾î¶°ÇÑ ¿¬¶ôÀ» µå¸®Áö ¾Ê¾Ò½À´Ï´Ù.  
-ÀÛ¼ºµÈ ±ÛÀÇ ÀÏºÎ°¡ µµ¼­ÀÇ ³»¿ë°ú ºñ½ÁÇÒ ¼ö ÀÖÀ¸¸ç,  
-ÀÌ·Î ÀÎÇØ ÀúÀÛ±Ç Ä§ÇØ°¡ ¿¹»óµÇ´Â °æ¿ì¿¡´Â  
-ÁöÃ¼¾øÀÌ ÇØ´ç ¹®±¸³ª ÆÄÀÏÀ» ¼öÁ¤ ¶Ç´Â »èÁ¦ÇÏ°Ú½À´Ï´Ù.
+ì €ìžì™€ ì¶œíŒì‚¬ ì¸¡ì—ëŠ” ì–´ë– í•œ ì—°ë½ì„ ë“œë¦¬ì§€ ì•Šì•˜ìŠµë‹ˆë‹¤.  
+ìž‘ì„±ëœ ê¸€ì˜ ì¼ë¶€ê°€ ë„ì„œì˜ ë‚´ìš©ê³¼ ë¹„ìŠ·í•  ìˆ˜ ìžˆìœ¼ë©°,  
+ì´ë¡œ ì¸í•´ ì €ìž‘ê¶Œ ì¹¨í•´ê°€ ì˜ˆìƒë˜ëŠ” ê²½ìš°ì—ëŠ”  
+ì§€ì²´ì—†ì´ í•´ë‹¹ ë¬¸êµ¬ë‚˜ íŒŒì¼ì„ ìˆ˜ì • ë˜ëŠ” ì‚­ì œí•˜ê² ìŠµë‹ˆë‹¤.
 
 This is IBK System's employees' studying project.  
 It is good for members' behavior and ability  
