@@ -53,4 +53,11 @@ ISBN : 978-89-6848-056-0
 2016, May 31 12:00 (KST)  First Meeting  
 
 
+## [Use Markdown]
+We need to use editing markdown formatted document.  
+If you already know about it, you are lucky guys.  
+But you don't know, please learn it.  
+
+Link to _wikipedia_ : (https://en.wikipedia.org/wiki/Markdown)   
+
 
