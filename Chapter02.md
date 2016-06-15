@@ -1,27 +1,25 @@
-## Chapter 2. 프로그램 설계 시에 알아야 할 좋은 코딩 습관
+## Chapter 02. 프로그램 설계 시에 알아야 할 좋은 코딩 습관
 
 ---
 
 ## 1) 최신 표준을 따르라  
 
-커니건과 리치(Kernighan & Ritchie)의 main 함수 기술 방식 ? 그때 당시 국제표준
-<pre>
-<code>
+<pre>  
+//커니건과 리치(Kernighan & Ritchie)의 main 함수 기술 방식 ? 그때 당시 국제표준
+<code>  
 main() {
     ...
 }
-</code>
-</pre>
-
-최근 : 반환값과 인수의 자료형 반드시 기술 ? 훨씬 명료
-<pre>
-<code>
+</code>  
+  
+//최근 : 반환값과 인수의 자료형 반드시 기술 ? 훨씬 명료
+<code>  
 int main(void) {
     ...
     return 0;
 }
-</code>
-</pre>
+</code>  
+</pre>  
 
 
 ## 2) 개발 인원을 적정한 규모로 한정하라  
