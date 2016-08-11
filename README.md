@@ -115,11 +115,11 @@
     
     12. Chapter 12  
       * 2016, August 16 12:00 (KST)  
-      * Tutor : Joonhong Park  
+      * Tutor : Seongmin Jang  
     
     13. Chapter 13  
       * 2016, August 23 12:00 (KST)  
-      * Tutor : Seongmin Jang  
+      * Tutor : Joonhong Park  
     
     14. Chapter 14  
       * 2016, August 30 12:00 (KST)  
