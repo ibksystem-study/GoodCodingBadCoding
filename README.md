@@ -113,11 +113,11 @@
       * 2016, August 9 12:00 (KST)  
       * Tutor : Arum Kim  
     
-    12. Chapter 12  
+    12. Chapter 13  
       * 2016, August 16 12:00 (KST)  
       * Tutor : Seongmin Jang  
     
-    13. Chapter 13  
+    13. Chapter 12  
       * 2016, August 23 12:00 (KST)  
       * Tutor : Joonhong Park  
     
