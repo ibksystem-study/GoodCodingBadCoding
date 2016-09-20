@@ -2,6 +2,7 @@
 2016 August 30 
 14. 사용자 인터페이스를 처리할 때 좋은 코딩 습관
 ────────────────────────────────────────────────
+
 1. 입력 값을 저장할 변수의 크기를 충분히 확보하라
 - ‘아주 충분히 여유 있게’ 배열의 크기를 지정하자
 - double형보다는 long double형을, int보다는 long int를 사용하자.
@@ -55,33 +56,6 @@ printf(“%d와 %d를 인쇄”, num1, num2);
 4. fflush()함수를 사용해 표준 입출력 장치의 버퍼를 비워라
 - 런타임 오류 시 표준 입출력 장치의 버퍼가 비워지지 않은 채 종료될 수 있다.
 
-#include<stdio.h>
-int main(void) {
-	int data_in2;
-	
-	fflush(stdin); // 표준입력장치(키보드)의 버퍼를 강제로 비운다
-
-	scanf(“숫자를 입력하세요: %d”,&data_in2);
-	printf(“입력한 숫자는 %d입니다.”, data_in2);
-	return 0;
-}
-
-#include<stdio.h>
-int main(void) {
-	int num1 = 1;
-	int num2 = 0;
-	int data_in;
-	scanf(“숫자를 입력하세요: %d”, &data_in);
-	num1 = num1 / num2;
-	return 0;
-}
-#include<stdio.h>
-int main(void) {
-	int data_in2;
-	scanf(“숫자를 입력하세요: %d”,&data_in2);
-	printf(“입력한 숫자는 %d입니다.”, data_in2);
-	return 0;
-}
 키보드에 입력한 정보가 data_in으로 전송할 차례에 프로그램 종료
 다음 프로그램에 키보드 버퍼에 있던 값이 합쳐서 출력될 수 있다.
   
